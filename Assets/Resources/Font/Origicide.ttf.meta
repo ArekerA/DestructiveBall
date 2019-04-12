@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 463f13b2350b7694482f4dd6b8fe0f85
+timeCreated: 1491744631
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Origicide
+  fontNames:
+  - Origicide
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
